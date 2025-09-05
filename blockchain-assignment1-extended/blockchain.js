@@ -162,7 +162,7 @@ function main() {
     });
     console.log(`\nTotal transactions: ${totalTransactions}`);
 
-    // 6) Show blockchain structure (optional - comment out if too verbose)
+    // 6) Shows blockchain structure
     // console.log('\n=== FULL BLOCKCHAIN ===');
     // console.log(JSON.stringify(demoCoin, null, 2));
 }
